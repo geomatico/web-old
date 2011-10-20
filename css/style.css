@@ -31,12 +31,15 @@ p { padding-bottom: 4px; }
 
 .shell { width: 960px; margin: 0 auto; }
 
-h2.txt-solutions { background-image: url(images/txt-solutions.gif); height: 33px; }
-h2.txt-about-bizgroup { background-image: url(images/txt-about-bizgroup.gif); }
-h2.txt-bizgroup-services { background-image: url(images/txt-bizgroup-services.gif); }
-h2.txt-support { background-image: url(images/txt-support.gif); }
-h2.txt-partnership-program { background-image: url(images/txt-parnership-program.gif); }
-h2.txt-newsletters { background-image: url(images/txt-newsletters.gif); }
+h2.txt-project-icos { background-image: url(images/txt-project-icos.gif); height: 33px; }
+h2.txt-project-icos { background-image: url(images/txt-project-icos.gif); height: 33px; }
+h2.txt-project-icos { background-image: url(images/txt-project-icos.gif); height: 33px; }
+h2.txt-project-icos { background-image: url(images/txt-project-icos.gif); height: 33px; }
+h2.txt-eye { background-image: url(images/txt-eye.gif); background-repeat: no-repeat; padding-left: 30px; height: 30px; }
+h2.txt-gear { background-image: url(images/txt-gear.gif); background-repeat: no-repeat; padding-left: 30px; height: 30px; }
+h2.txt-clock { background-image: url(images/txt-clock.gif); background-repeat: no-repeat; padding-left: 30px; height: 30px; }
+h2.txt-feedback { background-image: url(images/txt-feedback.gif); background-repeat: no-repeat; padding-left: 30px; height: 30px; }
+h2.txt-mail { background-image: url(images/txt-mail.gif); background-repeat: no-repeat; padding-left: 30px; height: 30px; }
 
 .more { background: url(images/arr.gif) no-repeat 0 center; padding-left: 8px; }
 
@@ -74,7 +77,7 @@ h2.txt-newsletters { background-image: url(images/txt-newsletters.gif); }
 #slider-holder ul li { list-style-type: none; float: left; display: inline; height: 350px; width: 868px; padding: 40px 45px 10px; }
 #slider-holder .slide-info { float: left; display: inline; width: 475px; padding-top: 100px; }
 #slider-holder .slide-image { float: right; display: inline; }
-#slider-holder .slide-info h2 { font-size: 31px; line-height: 1; color: #899464; text-transform: uppercase; font-weight: normal; margin-bottom: 8px; }
+#slider-holder .slide-info h2 { font-size: 31px; line-height: 1; color: #899464; font-weight: normal; margin-bottom: 8px; }
 
 .slider-controls a { float: left; display: inline; font-size: 0; line-height: 0; text-indent: -4000px; width: 10px; height: 10px; margin-left: 2px; }
 .slider-controls a { background: url(images/slider-nav.gif) no-repeat right 0; }
@@ -83,7 +86,7 @@ h2.txt-newsletters { background-image: url(images/txt-newsletters.gif); }
 .cols { padding: 28px 0 34px; }
 .cols .col { float: left; display: inline; }
 .cols .col-last { margin-right: 0 !important; }
-.cols .col h2 { padding-bottom: 10px; margin-left: 5px; text-transform: uppercase; font-weight: normal; }
+.cols .col h2 { padding-bottom: 10px; margin-left: 5px; font-weight: normal; }
 .cols .col h2.notext { height: 26px; }
 .cols .col .content { padding: 5px 0 0 5px; }
 
