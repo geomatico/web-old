@@ -47,8 +47,8 @@ h2.txt-mail { background-image: url(images/txt-mail.gif); background-repeat: no-
 
 #top { padding: 30px 0 10px 280px; position: relative; height: 100%; }
 
-#logo { width: 266px; font-size: 0; line-height: 0; position: absolute; top: 20px; left: 0; }
-#logo a { display: block; height: 50px; text-indent: -4000px; background: url(images/logo.gif); }
+#logo { width: 256px; font-size: 0; line-height: 0; position: absolute; top: 20px; left: 0; }
+#logo a { display: block; height: 47px; text-indent: -4000px; background: url(images/logo.png); }
 
 #description { padding-bottom: 10px; margin-bottom: 10px; }
 #description h2 { height: 18px; background: url(images/description.gif) no-repeat 0 0; }
